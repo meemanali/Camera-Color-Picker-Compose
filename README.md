@@ -78,7 +78,7 @@ No Ads, No Tracking: Completely free and privacy-focused
 ## 📬 Contact
 
 * Muhammad Eeman Ali - meemanali72@gmail.com
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-eeman-ali/)
+* LinkedIn: https://www.linkedin.com/in/muhammad-eeman-ali/
 
 
 ⭐ If you found this project helpful, please consider giving it a star!
