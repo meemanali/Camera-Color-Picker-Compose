@@ -13,16 +13,17 @@ A modern Android color picker app that samples colors in real-time using your de
 ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/eeman-funprime/Camera-Color-Picker-Compose/blob/master/assets/color_picker_splash.webp?raw=true" alt="Splash Screen" width="220" title="Splash Screen">
-  <img src="https://github.com/eeman-funprime/Camera-Color-Picker-Compose/blob/master/assets/color_picker_camera.webp" alt="Camera Screen" width="220" title="Screen Splash">
-  <img src="https://github.com/eeman-funprime/Camera-Color-Picker-Compose/blob/master/assets/color_picker_history.webp" alt="Colors History" width="220" title="Colors History">  
-  <img src="https://github.com/eeman-funprime/Camera-Color-Picker-Compose/blob/master/assets/color_picker_exit.webp" alt="Exit Dialog" width="220" title="Exit Dialog">
+  <img src="https://github.com/meemanali/Camera-Color-Picker-Compose/blob/main/assets/color_picker_splash.webp?raw=true" alt="Splash Screen" width="220" title="Splash Screen">
+  <img src="https://github.com/meemanali/Camera-Color-Picker-Compose/blob/main/assets/color_picker_camera.webp" alt="Camera Screen" width="220" title="Screen Splash">
+  <img src="https://github.com/meemanali/Camera-Color-Picker-Compose/blob/main/assets/color_picker_history.webp" alt="Colors History" width="220" title="Colors History">  
+  <img src="https://github.com/meemanali/Camera-Color-Picker-Compose/blob/main/assets/color_picker_exit.webp" alt="Exit Dialog" width="220" title="Exit Dialog">
 </div>
 
 
 ## Video Preview
 
-https://github.com/user-attachments/assets/22c165e1-c767-4d43-9588-20709c49708c
+https://github.com/user-attachments/assets/930e2407-4505-4697-839e-b3403f362c5e
+
 
 ## ✨ Features
 
@@ -77,8 +78,7 @@ No Ads, No Tracking: Completely free and privacy-focused
 ## 📬 Contact
 
 * Muhammad Eeman Ali - meemanali72@gmail.com
-* LinkedIn: Your LinkedIn
-* Project Link: https://github.com/yourusername/camera-color-picker
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/muhammad-eeman-ali/)
 
 
 ⭐ If you found this project helpful, please consider giving it a star!
