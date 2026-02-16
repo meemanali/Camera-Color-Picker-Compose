@@ -72,7 +72,7 @@ No Ads, No Tracking: Completely free and privacy-focused
 * Unidirectional Data Flow (UDF) with immutable state
 * Repository Pattern for data layer abstraction
 * Dependency Injection using Koin
-* Edge-to-Edge UI following Android 15 guidelines
+* Edge-to-Edge UI following Android 16 guidelines
 
 
 
