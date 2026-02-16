@@ -1,4 +1,5 @@
-🎨 Camera Color Picker
+## 🎨 Camera Color Picker
+
 A modern Android color picker app that samples colors in real-time using your device's camera. Built with Jetpack Compose and CameraX to demonstrate production-ready Android development practices.
 
 <p align="center">
