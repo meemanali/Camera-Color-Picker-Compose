@@ -119,49 +119,6 @@ fun HistoryScreen(
     }
 }
 
-//private val PentagonShape = GenericShape { size, _ ->
-//    val w = size.width
-//    val h = size.height
-//    moveTo(w / 2f, 0f)
-//    lineTo(w, h * 0.38f)
-//    lineTo(w * 0.82f, h)
-//    lineTo(w * 0.18f, h)
-//    lineTo(0f, h * 0.38f)
-//    close()
-//}
-
-//val SoftHexagon = GenericShape { size, _ ->
-//    val w = size.width
-//    val h = size.height
-//    val r = 16.dp.toPx(LocalDensity.current) // corner rounding
-//
-//    moveTo(w / 2, 0f + r)
-//    lineTo(w - r, h * 0.25f)
-//    lineTo(w - r, h * 0.75f)
-//    lineTo(w / 2, h - r)
-//    lineTo(r, h * 0.75f)
-//    lineTo(r, h * 0.25f)
-//    close()
-//}
-
-//@Composable
-//fun SoftHexagonShape(cornerRadius: Dp = 16.dp): GenericShape {
-//    val rPx = with(LocalDensity.current) { cornerRadius.toPx() }
-//
-//    return GenericShape { size, _ ->
-//        val w = size.width
-//        val h = size.height
-//
-//        moveTo(w / 2f, 0f + rPx)
-//        lineTo(w - rPx, h * 0.25f)
-//        lineTo(w - rPx, h * 0.75f)
-//        lineTo(w / 2f, h - rPx)
-//        lineTo(rPx, h * 0.75f)
-//        lineTo(rPx, h * 0.25f)
-//        close()
-//    }
-//}
-
 @Composable
 fun ColorTile(
     hexCode: String,
@@ -203,40 +160,3 @@ fun ColorTile(
         }
     }
 }
-
-//@Composable
-//fun ColorCard(hexCode: String, onDelete: () -> Unit) {
-//    Card(
-//        modifier = Modifier
-//            .fillMaxWidth()
-//            .padding(vertical = 4.dp)
-//    ) {
-//        Row(
-//            modifier = Modifier
-//                .fillMaxWidth()
-//                .padding(16.dp),
-//            verticalAlignment = Alignment.CenterVertically
-//        ) {
-//            Box(
-//                modifier = Modifier
-//                    .size(60.dp)
-//                    .background(
-//                        color = hexCode.hexToColor(),
-//                        shape = RoundedCornerShape(8.dp)
-//                    )
-//            )
-//
-//            Spacer(modifier = Modifier.width(16.dp))
-//
-//            Text(
-//                text = hexCode,
-//                style = MaterialTheme.typography.titleMedium,
-//                modifier = Modifier.weight(1f)
-//            )
-//
-//            IconButton(onClick = onDelete) {
-//                Icon(Icons.Default.Delete, contentDescription = "Delete")
-//            }
-//        }
-//    }
-//}
